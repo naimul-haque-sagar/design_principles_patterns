@@ -1,3 +1,5 @@
+package src.Creational_Patterns;
+
 import java.util.*;
 import java.security.*;
 interface Food {
@@ -32,7 +34,7 @@ if(order.equals("cake")){
 
 	}
 
-	public class Solution {
+	class Solution {
 
 	 public static void main(String args[]){
 			Do_Not_Terminate.forbidExit();

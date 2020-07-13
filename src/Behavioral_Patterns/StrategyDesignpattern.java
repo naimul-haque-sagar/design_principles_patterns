@@ -1,3 +1,4 @@
+package src.Behavioral_Patterns;
 
 public class StrategyDesignpattern {
     public static void main(String[] args) {

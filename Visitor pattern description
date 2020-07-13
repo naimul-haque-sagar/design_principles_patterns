@@ -1,4 +1,0 @@
-Visitor is a behavioural design pattern.
-Visitor pattern allows adding new behaviours to the existing module or class or existing code.
-It let's us define a new operation without changing the existing code or class on which it operates.
-

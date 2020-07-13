@@ -1,3 +1,4 @@
+package src.Behavioral_Patterns;
 
 interface Discount {
     void acceptDiscount(HotelOffersDiscount hotelDiscount);

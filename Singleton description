@@ -1,5 +1,0 @@
-Singleton design pattern is a creational pattern
-It ensures that a class has only one instance
-It provide a global point to access it
-It provides a global access to the class instance
-It protects instance from being overwritten by other codes
