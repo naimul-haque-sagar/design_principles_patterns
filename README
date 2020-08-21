@@ -1,0 +1,18 @@
+Design pattern 
+
+1. Anti Patterns
+   ->God Object
+   ->Telescoping Constructor
+
+2. Behavioural Patterns
+   ->Strategy
+   ->Visitor
+
+3. Creational Patterns
+   ->Builder
+   ->Factory
+   ->Singleton
+   ->Prototype
+	
+4. Structural Patterns
+   ->Proxy
